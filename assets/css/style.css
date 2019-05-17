@@ -86,7 +86,7 @@ h1 {
 
 .containerforall {
   margin-top: 57px;
-  background-image: url("assets/images/floor-tile.png");
+  background-image: url("../images/floor-tile.png");
   border-top: 2px solid grey;
   width: 100vw;
   height: 90vh;
